@@ -53,6 +53,7 @@
   <ItemGroup>
      <Compile Include="Assets\FPSInput.cs" />
      <Compile Include="Assets\MouseLook.cs" />
+     <Compile Include="Assets\RayShooter.cs" />
  <Reference Include="Facebook.Unity.Settings">
  <HintPath>/home/rahul/Desktop/First try/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
