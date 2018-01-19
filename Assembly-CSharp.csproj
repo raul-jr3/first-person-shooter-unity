@@ -51,10 +51,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\FireBall.cs" />
      <Compile Include="Assets\FPSInput.cs" />
      <Compile Include="Assets\MouseLook.cs" />
+     <Compile Include="Assets\PlayerCharacter.cs" />
      <Compile Include="Assets\RayShooter.cs" />
      <Compile Include="Assets\ReactiveTarget.cs" />
+     <Compile Include="Assets\SceneController.cs" />
      <Compile Include="Assets\WanderingAI.cs" />
  <Reference Include="Facebook.Unity.Settings">
  <HintPath>/home/rahul/Desktop/First try/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
